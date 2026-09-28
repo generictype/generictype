@@ -17,3 +17,7 @@ I prefer backend and low-level/embedded development.
 - Python
 - C
 - Golang, though not as often
+
+**Certs I would like to obtain:**
+- Net+
+- Sec+
