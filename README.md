@@ -9,4 +9,5 @@ I prefer backend and low-level/embedded development.
 
 Projects ongoing:
 - Ferrite core memory
+- Solar-powered 1W Meshtastic node
 - 8-bit relay adder, utilizing a single serial adder
